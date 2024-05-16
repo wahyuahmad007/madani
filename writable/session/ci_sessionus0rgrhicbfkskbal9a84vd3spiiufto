@@ -1,0 +1,13 @@
+__ci_last_regenerate|i:1715496266;_ci_previous_url|s:35:"http://localhost:8080/auth/register";alamat|s:9:"asdfghjkl";email|s:24:"wahyuahmadkh08@gmail.com";error|s:363:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>username Harus diisi</li>
+					<li>telepon Harus diisi</li>
+					<li>alamat Harus diisi</li>
+					<li>email Harus diisi</li>
+					<li>password Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:7:{s:14:"csrf_test_name";s:32:"22c6a983dc1064d4a10e8e83e55972f3";s:8:"username";s:0:"";s:7:"telepon";s:0:"";s:5:"email";s:0:"";s:6:"alamat";s:0:"";s:8:"password";s:0:"";s:13:"password_conf";s:0:"";}}_ci_validation_errors|a:5:{s:8:"username";s:20:"username Harus diisi";s:7:"telepon";s:19:"telepon Harus diisi";s:6:"alamat";s:18:"alamat Harus diisi";s:5:"email";s:17:"email Harus diisi";s:8:"password";s:20:"password Harus diisi";}

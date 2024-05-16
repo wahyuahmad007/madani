@@ -1,0 +1,1056 @@
+INFO - 2024-03-23 04:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:39:15 --> Cart Class Initialized
+INFO - 2024-03-23 04:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:39:29 --> Cart Class Initialized
+INFO - 2024-03-23 04:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:40:45 --> Cart Class Initialized
+CRITICAL - 2024-03-23 04:40:45 --> ErrorException: Undefined array key "no_nota"
+in APPPATH\Views\konten\riwayat.php on line 36.
+ 1 APPPATH\Views\konten\riwayat.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php', 36)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(114): view('konten/riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->histori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 04:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:41:03 --> Cart Class Initialized
+INFO - 2024-03-23 04:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:43:46 --> Cart Class Initialized
+INFO - 2024-03-23 04:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:45:21 --> Cart Class Initialized
+INFO - 2024-03-23 04:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:48:29 --> Cart Class Initialized
+INFO - 2024-03-23 04:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:51:50 --> Cart Class Initialized
+INFO - 2024-03-23 04:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:52:16 --> Cart Class Initialized
+INFO - 2024-03-23 04:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:52:26 --> Cart Class Initialized
+INFO - 2024-03-23 04:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:52:41 --> Cart Class Initialized
+INFO - 2024-03-23 04:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:53:01 --> Cart Class Initialized
+INFO - 2024-03-23 04:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:54:04 --> Cart Class Initialized
+INFO - 2024-03-23 04:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:55:18 --> Cart Class Initialized
+INFO - 2024-03-23 04:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:55:58 --> Cart Class Initialized
+INFO - 2024-03-23 04:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:56:13 --> Cart Class Initialized
+INFO - 2024-03-23 04:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:56:28 --> Cart Class Initialized
+INFO - 2024-03-23 04:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:57:17 --> Cart Class Initialized
+INFO - 2024-03-23 04:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 04:57:34 --> Cart Class Initialized
+INFO - 2024-03-23 06:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:00:22 --> Cart Class Initialized
+INFO - 2024-03-23 06:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:22:25 --> Cart Class Initialized
+INFO - 2024-03-23 06:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:22:29 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:22:29 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\madani\app\Models\m_keranjang.php on line 18
+in SYSTEMPATH\Database\BaseBuilder.php on line 1608.
+ 1 APPPATH\Models\m_keranjang.php(18): CodeIgniter\Database\BaseBuilder->get('transaksi')
+ 2 APPPATH\Controllers\Produk.php(122): App\Models\m_keranjang->histori('1')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:23:08 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:23:08 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRow()
+in APPPATH\Models\m_keranjang.php on line 19.
+ 1 APPPATH\Controllers\Produk.php(122): App\Models\m_keranjang->histori('1')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:24:18 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:24:18 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Builder::num_rows()
+in APPPATH\Models\m_keranjang.php on line 19.
+ 1 APPPATH\Controllers\Produk.php(122): App\Models\m_keranjang->histori('1')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:25:24 --> Cart Class Initialized
+INFO - 2024-03-23 06:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-23 06:26:24 --> ErrorException: Undefined variable $cart
+in APPPATH\Views\layout\header.php on line 23.
+ 1 APPPATH\Views\layout\header.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layout/header', null, true)
+ 5 APPPATH\Views\layout\template.php(48): CodeIgniter\View\View->include('layout/header')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/form_bayar', [], true)
+10 APPPATH\Controllers\Produk.php(124): view('konten/form_bayar', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:26:42 --> Cart Class Initialized
+INFO - 2024-03-23 06:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:27:34 --> Cart Class Initialized
+INFO - 2024-03-23 06:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:28:33 --> Cart Class Initialized
+INFO - 2024-03-23 06:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:30:03 --> Cart Class Initialized
+INFO - 2024-03-23 06:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:31:01 --> Cart Class Initialized
+INFO - 2024-03-23 06:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:31:51 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:31:51 --> ErrorException: Trying to access array offset on value of type bool
+in APPPATH\Views\konten\detail_riwayat.php on line 12.
+ 1 APPPATH\Views\konten\detail_riwayat.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:32:47 --> Cart Class Initialized
+INFO - 2024-03-23 06:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:33:36 --> Cart Class Initialized
+INFO - 2024-03-23 06:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:34:29 --> Cart Class Initialized
+INFO - 2024-03-23 06:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:34:50 --> Cart Class Initialized
+INFO - 2024-03-23 06:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:35:06 --> Cart Class Initialized
+INFO - 2024-03-23 06:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:36:42 --> Cart Class Initialized
+INFO - 2024-03-23 06:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:37:14 --> Cart Class Initialized
+INFO - 2024-03-23 06:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:39:03 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:39:03 --> ErrorException: foreach() argument must be of type array|object, bool given
+in APPPATH\Views\konten\detail_riwayat.php on line 10.
+ 1 APPPATH\Views\konten\detail_riwayat.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, bool given', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:40:41 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:40:42 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\konten\detail_riwayat.php on line 10.
+ 1 APPPATH\Views\konten\detail_riwayat.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:40:56 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:40:56 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\konten\detail_riwayat.php on line 10.
+ 1 APPPATH\Views\konten\detail_riwayat.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:42:09 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:42:09 --> ErrorException: Undefined array key "no_
+                                    nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_
+                                    nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:43:23 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:43:23 --> ErrorException: Undefined array key "no_
+                                    nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_
+                                    nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:44:29 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:44:29 --> ErrorException: Undefined array key "no_
+                                    nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_
+                                    nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:45:39 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:45:39 --> ErrorException: Undefined array key "
+                                    total"
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "
+                                    total"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:47:17 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:47:17 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\konten\detail_riwayat.php on line 10.
+ 1 APPPATH\Views\konten\detail_riwayat.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:49:41 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:49:41 --> ErrorException: Undefined array key "
+                                    "
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "
+                                    "', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:49:55 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:49:55 --> ErrorException: Undefined array key "
+                                    no_nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 14.
+ 1 APPPATH\Views\konten\detail_riwayat.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "
+                                    no_nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:54:04 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:54:04 --> ErrorException: Undefined variable $1
+in APPPATH\Models\m_transaksi.php on line 16.
+ 1 APPPATH\Models\m_transaksi.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $1', 'C:\\xampp\\htdocs\\madani\\app\\Models\\m_transaksi.php', 16)
+ 2 APPPATH\Controllers\Produk.php(122): App\Models\m_transaksi->histori('1')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:54:20 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:54:20 --> BadMethodCallException: Call to undefined method App\Models\m_transaksi::barang
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Produk.php(123): CodeIgniter\Model->__call('barang', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:54:42 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:54:42 --> ErrorException: Undefined array key "
+                                    no_nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 13.
+ 1 APPPATH\Views\konten\detail_riwayat.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "
+                                    no_nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:57:05 --> Cart Class Initialized
+INFO - 2024-03-23 06:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:57:07 --> Cart Class Initialized
+INFO - 2024-03-23 06:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:57:11 --> Cart Class Initialized
+CRITICAL - 2024-03-23 06:57:11 --> ErrorException: Undefined array key "
+                                    no_nota"
+in APPPATH\Views\konten\detail_riwayat.php on line 13.
+ 1 APPPATH\Views\konten\detail_riwayat.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "
+                                    no_nota"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 06:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:58:16 --> Cart Class Initialized
+INFO - 2024-03-23 06:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 06:58:39 --> Cart Class Initialized
+INFO - 2024-03-23 07:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:00:36 --> Cart Class Initialized
+INFO - 2024-03-23 07:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:02:30 --> Cart Class Initialized
+CRITICAL - 2024-03-23 07:02:30 --> BadMethodCallException: Call to undefined method App\Models\m_transaksi::barang
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Produk.php(123): CodeIgniter\Model->__call('barang', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:02:45 --> Cart Class Initialized
+INFO - 2024-03-23 07:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:03:41 --> Cart Class Initialized
+CRITICAL - 2024-03-23 07:03:41 --> ErrorException: Undefined array key "nm_kategori"
+in APPPATH\Views\konten\detail_riwayat.php on line 61.
+ 1 APPPATH\Views\konten\detail_riwayat.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:04:05 --> Cart Class Initialized
+INFO - 2024-03-23 07:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:06:39 --> Cart Class Initialized
+CRITICAL - 2024-03-23 07:06:40 --> ErrorException: Undefined array key "nm_barang"
+in APPPATH\Views\konten\detail_riwayat.php on line 61.
+ 1 APPPATH\Views\konten\detail_riwayat.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_barang"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:07:43 --> Cart Class Initialized
+INFO - 2024-03-23 07:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:08:40 --> Cart Class Initialized
+INFO - 2024-03-23 07:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:09:05 --> Cart Class Initialized
+INFO - 2024-03-23 07:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:10:27 --> Cart Class Initialized
+CRITICAL - 2024-03-23 07:10:27 --> ErrorException: Undefined array key "harga"
+in APPPATH\Views\konten\detail_riwayat.php on line 64.
+ 1 APPPATH\Views\konten\detail_riwayat.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "harga"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 64)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:12:11 --> Cart Class Initialized
+INFO - 2024-03-23 07:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:12:30 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:02 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:08 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:09 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:16 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:16 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:21 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:31 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:31 --> Cart Class Initialized
+INFO - 2024-03-23 07:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:17:55 --> Cart Class Initialized
+INFO - 2024-03-23 07:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:18:10 --> Cart Class Initialized
+INFO - 2024-03-23 07:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:21:33 --> Cart Class Initialized
+INFO - 2024-03-23 07:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:21:37 --> Cart Class Initialized
+INFO - 2024-03-23 07:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-23 07:30:00 --> ErrorException: Undefined array key "jenis"
+in APPPATH\Views\konten\admin\kategori.php on line 70.
+ 1 APPPATH\Views\konten\admin\kategori.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenis"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\kategori.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\kategori.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/kategori', [], true)
+ 5 APPPATH\Controllers\Admin.php(84): view('konten/admin/kategori', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-23 07:35:07 --> ErrorException: Undefined array key "jenis"
+in APPPATH\Views\konten\admin\produk.php on line 43.
+ 1 APPPATH\Views\konten\admin\produk.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenis"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(29): view('konten/admin/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-23 07:36:24 --> ErrorException: Undefined array key "jenis"
+in APPPATH\Views\konten\admin\detail_produk.php on line 31.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenis"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(77): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 07:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:39:04 --> Cart Class Initialized
+INFO - 2024-03-23 07:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:44:02 --> Cart Class Initialized
+INFO - 2024-03-23 07:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:44:10 --> Cart Class Initialized
+INFO - 2024-03-23 07:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:44:11 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:04 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:16 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:17 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:24 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:32 --> Cart Class Initialized
+INFO - 2024-03-23 07:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:45:42 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:05 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:10 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:10 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:17 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:17 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:22 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:26 --> Cart Class Initialized
+INFO - 2024-03-23 07:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:47:36 --> Cart Class Initialized
+INFO - 2024-03-23 07:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:48:05 --> Cart Class Initialized
+INFO - 2024-03-23 07:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:48:11 --> Cart Class Initialized
+INFO - 2024-03-23 07:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:49:54 --> Cart Class Initialized
+INFO - 2024-03-23 07:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:50:19 --> Cart Class Initialized
+INFO - 2024-03-23 07:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:50:22 --> Cart Class Initialized
+INFO - 2024-03-23 07:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:50:52 --> Cart Class Initialized
+INFO - 2024-03-23 07:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:51:06 --> Cart Class Initialized
+INFO - 2024-03-23 07:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:51:35 --> Cart Class Initialized
+INFO - 2024-03-23 07:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:52:26 --> Cart Class Initialized
+INFO - 2024-03-23 07:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:55:15 --> Cart Class Initialized
+INFO - 2024-03-23 07:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:56:07 --> Cart Class Initialized
+INFO - 2024-03-23 07:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:57:15 --> Cart Class Initialized
+INFO - 2024-03-23 07:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:58:50 --> Cart Class Initialized
+INFO - 2024-03-23 07:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 07:59:26 --> Cart Class Initialized
+INFO - 2024-03-23 08:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:00:04 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:00:04 --> ErrorException: Undefined variable $tot_produk
+in APPPATH\Views\konten\detail_riwayat.php on line 79.
+ 1 APPPATH\Views\konten\detail_riwayat.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tot_produk', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php', 79)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(125): view('konten/detail_riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('2')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:00:14 --> Cart Class Initialized
+INFO - 2024-03-23 08:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:00:41 --> Cart Class Initialized
+INFO - 2024-03-23 08:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:00:52 --> Cart Class Initialized
+INFO - 2024-03-23 08:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:01:26 --> Cart Class Initialized
+INFO - 2024-03-23 08:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:03:18 --> Cart Class Initialized
+INFO - 2024-03-23 08:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:03:39 --> Cart Class Initialized
+INFO - 2024-03-23 08:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:03:45 --> Cart Class Initialized
+INFO - 2024-03-23 08:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:03:56 --> Cart Class Initialized
+INFO - 2024-03-23 08:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:04:01 --> Cart Class Initialized
+INFO - 2024-03-23 08:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:05:46 --> Cart Class Initialized
+INFO - 2024-03-23 08:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:06:14 --> Cart Class Initialized
+INFO - 2024-03-23 08:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:06:22 --> Cart Class Initialized
+INFO - 2024-03-23 08:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:08:57 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:08:57 --> ErrorException: Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 APPPATH\Views\konten\detail_keranjang.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 5 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:02 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:10:02 --> ErrorException: Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 APPPATH\Views\konten\detail_keranjang.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 5 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:17 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:10:17 --> ErrorException: Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 APPPATH\Views\konten\detail_keranjang.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 5 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:18 --> Cart Class Initialized
+INFO - 2024-03-23 08:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:20 --> Cart Class Initialized
+INFO - 2024-03-23 08:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:23 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:10:23 --> ErrorException: Undefined property: CodeIgniter\View\View::$cart
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 APPPATH\Views\konten\detail_keranjang.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 5 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:10:59 --> Cart Class Initialized
+INFO - 2024-03-23 08:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:11:37 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:11:37 --> Error: Call to a member function total() on array
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 4 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:11:51 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:11:51 --> Error: Call to a member function subtotal() on array
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 4 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:11:59 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:11:59 --> ErrorException: Attempt to read property "subtotal" on array
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 APPPATH\Views\konten\detail_keranjang.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "subtotal" on array', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_keranjang.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 5 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:12:22 --> Cart Class Initialized
+INFO - 2024-03-23 08:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:12:38 --> Cart Class Initialized
+INFO - 2024-03-23 08:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:13:23 --> Cart Class Initialized
+INFO - 2024-03-23 08:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:14:06 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:14:06 --> Error: Call to undefined method CodeIgniterCart\Cart::subtotal()
+in APPPATH\Views\konten\detail_keranjang.php on line 54.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_keranjang', [], true)
+ 4 APPPATH\Controllers\Produk.php(46): view('konten/detail_keranjang', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_keranjang()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:14:19 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:10 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:40 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:42 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:52 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:58 --> Cart Class Initialized
+INFO - 2024-03-23 08:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:15:58 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:05 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:05 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:11 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:17 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:26 --> Cart Class Initialized
+INFO - 2024-03-23 08:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:16:57 --> Cart Class Initialized
+INFO - 2024-03-23 08:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:17:20 --> Cart Class Initialized
+INFO - 2024-03-23 08:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:17:25 --> Cart Class Initialized
+INFO - 2024-03-23 08:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:18:03 --> Cart Class Initialized
+INFO - 2024-03-23 08:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:18:49 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:15 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:19 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:25 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:35 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:39 --> Cart Class Initialized
+INFO - 2024-03-23 08:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:19:59 --> Cart Class Initialized
+INFO - 2024-03-23 08:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:23:03 --> Cart Class Initialized
+INFO - 2024-03-23 08:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:23:26 --> Cart Class Initialized
+INFO - 2024-03-23 08:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:23:38 --> Cart Class Initialized
+INFO - 2024-03-23 08:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:23:55 --> Cart Class Initialized
+INFO - 2024-03-23 08:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:29:33 --> Cart Class Initialized
+INFO - 2024-03-23 08:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:30:35 --> Cart Class Initialized
+INFO - 2024-03-23 08:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:31:14 --> Cart Class Initialized
+INFO - 2024-03-23 08:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:31:41 --> Cart Class Initialized
+INFO - 2024-03-23 08:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:31:59 --> Cart Class Initialized
+INFO - 2024-03-23 08:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:33:00 --> Cart Class Initialized
+INFO - 2024-03-23 08:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:33:09 --> Cart Class Initialized
+INFO - 2024-03-23 08:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:33:21 --> Cart Class Initialized
+INFO - 2024-03-23 08:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:34:03 --> Cart Class Initialized
+INFO - 2024-03-23 08:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:34:21 --> Cart Class Initialized
+INFO - 2024-03-23 08:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:34:32 --> Cart Class Initialized
+INFO - 2024-03-23 08:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:35:32 --> Cart Class Initialized
+INFO - 2024-03-23 08:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:37:14 --> Cart Class Initialized
+INFO - 2024-03-23 08:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:38:55 --> Cart Class Initialized
+INFO - 2024-03-23 08:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:39:02 --> Cart Class Initialized
+INFO - 2024-03-23 08:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:39:02 --> Cart Class Initialized
+INFO - 2024-03-23 08:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:39:10 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:39:10 --> ErrorException: Undefined variable $keranjang
+in APPPATH\Views\konten\riwayat.php on line 43.
+ 1 APPPATH\Views\konten\riwayat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keranjang', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(108): view('konten/riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->form_bayar()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:39:38 --> Cart Class Initialized
+INFO - 2024-03-23 08:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:40:35 --> Cart Class Initialized
+INFO - 2024-03-23 08:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:40:48 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:40:48 --> ErrorException: Undefined variable $keranjang
+in APPPATH\Views\konten\riwayat.php on line 43.
+ 1 APPPATH\Views\konten\riwayat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keranjang', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(102): view('konten/riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->bayar()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:41:25 --> Cart Class Initialized
+CRITICAL - 2024-03-23 08:41:25 --> ErrorException: Undefined variable $keranjang
+in APPPATH\Views\konten\riwayat.php on line 43.
+ 1 APPPATH\Views\konten\riwayat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keranjang', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat', [], true)
+ 5 APPPATH\Controllers\Produk.php(102): view('konten/riwayat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->bayar()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 08:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:41:47 --> Cart Class Initialized
+INFO - 2024-03-23 08:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:45:08 --> Cart Class Initialized
+INFO - 2024-03-23 08:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:45:17 --> Cart Class Initialized
+INFO - 2024-03-23 08:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:46:33 --> Cart Class Initialized
+INFO - 2024-03-23 08:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:46:43 --> Cart Class Initialized
+INFO - 2024-03-23 08:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:47:36 --> Cart Class Initialized
+INFO - 2024-03-23 08:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:50:16 --> Cart Class Initialized
+INFO - 2024-03-23 08:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 08:52:58 --> Cart Class Initialized
+INFO - 2024-03-23 09:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:02:24 --> Cart Class Initialized
+INFO - 2024-03-23 09:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:10:45 --> Cart Class Initialized
+INFO - 2024-03-23 09:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:11:16 --> Cart Class Initialized
+INFO - 2024-03-23 09:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:11:46 --> Cart Class Initialized
+INFO - 2024-03-23 09:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:12:33 --> Cart Class Initialized
+INFO - 2024-03-23 09:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:34:41 --> Cart Class Initialized
+INFO - 2024-03-23 09:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:37:31 --> Cart Class Initialized
+INFO - 2024-03-23 09:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:41:02 --> Cart Class Initialized
+INFO - 2024-03-23 09:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:41:07 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:41:08 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\riwayat_pesanan.php on line 47.
+ 1 APPPATH\Views\konten\riwayat_pesanan.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pesanan.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat_pesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(42): view('konten/riwayat_pesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->histori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:41:24 --> Cart Class Initialized
+INFO - 2024-03-23 09:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:46:39 --> Cart Class Initialized
+INFO - 2024-03-23 09:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:46:42 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:46:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "konten/detail_pemebelian.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('konten/detail_pemebelian.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemebelian', [], true)
+ 3 APPPATH\Controllers\Produk.php(124): view('konten/detail_pemebelian', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:47:35 --> Cart Class Initialized
+INFO - 2024-03-23 09:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:47:47 --> Cart Class Initialized
+INFO - 2024-03-23 09:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:47:55 --> Cart Class Initialized
+INFO - 2024-03-23 09:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:48:19 --> Cart Class Initialized
+INFO - 2024-03-23 09:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:48:22 --> Cart Class Initialized
+INFO - 2024-03-23 09:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:48:27 --> Cart Class Initialized
+INFO - 2024-03-23 09:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:49:03 --> Cart Class Initialized
+INFO - 2024-03-23 09:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:49:07 --> Cart Class Initialized
+INFO - 2024-03-23 09:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:49:38 --> Cart Class Initialized
+INFO - 2024-03-23 09:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:49:40 --> Cart Class Initialized
+INFO - 2024-03-23 09:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:49:42 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:49:42 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\detail_pemesanan.php on line 38.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:50:16 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:50:16 --> ErrorException: Undefined variable $barang
+in APPPATH\Views\konten\detail_pemesanan.php on line 61.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:50:29 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:50:29 --> ErrorException: Undefined variable $transaksi
+in APPPATH\Views\konten\detail_pemesanan.php on line 11.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaksi', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:50:47 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:50:47 --> ErrorException: Undefined variable $barang
+in APPPATH\Views\konten\detail_pemesanan.php on line 61.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:52:02 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:52:02 --> ErrorException: Undefined variable $no
+in APPPATH\Views\konten\detail_pemesanan.php on line 59.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $no', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:52:21 --> Cart Class Initialized
+CRITICAL - 2024-03-23 09:52:21 --> ErrorException: Undefined variable $tot_qty
+in APPPATH\Views\konten\detail_pemesanan.php on line 72.
+ 1 APPPATH\Views\konten\detail_pemesanan.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tot_qty', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php', 72)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pemesanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pemesanan', [], true)
+ 5 APPPATH\Controllers\Pesan.php(51): view('konten/detail_pemesanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-23 09:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-23 09:52:38 --> Cart Class Initialized

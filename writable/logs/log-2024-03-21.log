@@ -1,0 +1,666 @@
+CRITICAL - 2024-03-21 02:35:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layot/admin/navbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layot/admin/navbar.php')
+ 2 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layot/admin/navbar', null, true)
+ 3 APPPATH\Views\layout\admin\template.php(31): CodeIgniter\View\View->include('layot/admin/navbar')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\admin\\template.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/admin/template', [], true)
+ 7 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin.php(9): view('konten/admin/dashboard')
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+ERROR - 2024-03-21 05:06:58 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', 'root', 'madani', 3306, '', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 05:06:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kategori`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+ERROR - 2024-03-21 05:07:45 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'awk007'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'awk007', 'awk007', 'madani', 3306, '', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 05:07:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kategori`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+ERROR - 2024-03-21 05:07:49 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'awk007'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'awk007', 'awk007', 'madani', 3306, '', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 05:07:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kategori`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+ERROR - 2024-03-21 05:09:55 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', 'root', 'madani', 3306, '', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\madani\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\madani\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 05:09:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `kategori`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(27): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->kategori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 06:16:22 --> ErrorException: Undefined array key "kategori"
+in APPPATH\Views\konten\admin\produk.php on line 27.
+ 1 APPPATH\Views\konten\admin\produk.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php', 27)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(26): view('konten/admin/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 06:22:25 --> ErrorException: Undefined array key "kategori"
+in APPPATH\Views\konten\produk.php on line 52.
+ 1 APPPATH\Views\konten\produk.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(17): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 06:28:07 --> ErrorException: Undefined array key "nm_kategori"
+in APPPATH\Views\konten\admin\produk.php on line 28.
+ 1 APPPATH\Views\konten\admin\produk.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(26): view('konten/admin/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 06:45:37 --> ErrorException: Undefined variable $jenis
+in APPPATH\Views\konten\admin\produk.php on line 91.
+ 1 APPPATH\Views\konten\admin\produk.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenis', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php', 91)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(26): view('konten/admin/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:43:59 --> BadMethodCallException: Call to undefined method App\Models\m_produk::Detail
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Admin.php(67): CodeIgniter\Model->__call('Detail', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:45:41 --> ErrorException: Undefined array key "nm_kategori"
+in APPPATH\Views\konten\admin\detail_produk.php on line 1.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 1)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:49:43 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:50:01 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:50:22 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:50:35 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:50:51 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:51:31 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:52:31 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:52:45 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:54:16 --> ErrorException: Undefined array key "gambar"
+in APPPATH\Views\konten\admin\detail_produk.php on line 9.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 08:57:40 --> ErrorException: Undefined array key "gambar"
+in APPPATH\Views\konten\admin\detail_produk.php on line 11.
+ 1 APPPATH\Views\konten\admin\detail_produk.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_produk', [], true)
+ 5 APPPATH\Controllers\Admin.php(69): view('konten/admin/detail_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_produk('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 09:10:01 --> ErrorException: Undefined variable $produk
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(18): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 09:10:24 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(18): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 09:10:48 --> ErrorException: Undefined variable $pager
+in APPPATH\Views\konten\produk.php on line 63.
+ 1 APPPATH\Views\konten\produk.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 63)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(17): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 13:35:18 --> ErrorException: Undefined variable $produk
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(18): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 13:36:43 --> ErrorException: Undefined array key "nm_kategori"
+in APPPATH\Views\konten\produk.php on line 52.
+ 1 APPPATH\Views\konten\produk.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(18): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-03-21 14:02:34 --> ErrorException: Undefined array key "nm_kategori"
+in APPPATH\Views\konten\produk.php on line 52.
+ 1 APPPATH\Views\konten\produk.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_kategori"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(17): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:19:49 --> Cart Class Initialized
+INFO - 2024-03-21 15:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:20:59 --> Cart Class Initialized
+INFO - 2024-03-21 15:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:21:12 --> Cart Class Initialized
+INFO - 2024-03-21 15:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:33:59 --> Cart Class Initialized
+INFO - 2024-03-21 15:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:35:33 --> Cart Class Initialized
+INFO - 2024-03-21 15:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:35:41 --> Cart Class Initialized
+INFO - 2024-03-21 15:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:40:00 --> Cart Class Initialized
+INFO - 2024-03-21 15:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:41:06 --> Cart Class Initialized
+INFO - 2024-03-21 15:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:41:20 --> Cart Class Initialized
+INFO - 2024-03-21 15:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:41:43 --> Cart Class Initialized
+INFO - 2024-03-21 15:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:41:48 --> Cart Class Initialized
+INFO - 2024-03-21 15:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:42:23 --> Cart Class Initialized
+INFO - 2024-03-21 15:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:42:31 --> Cart Class Initialized
+INFO - 2024-03-21 15:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:42:38 --> Cart Class Initialized
+INFO - 2024-03-21 15:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:42:42 --> Cart Class Initialized
+INFO - 2024-03-21 15:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:42:46 --> Cart Class Initialized
+INFO - 2024-03-21 15:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:52:46 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:52:46 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:53:09 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:53:10 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:53:12 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:53:12 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:53:47 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:53:47 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:54:27 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:54:27 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:54:36 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:54:36 --> ErrorException: Undefined variable $cart
+in APPPATH\Views\layout\header.php on line 25.
+ 1 APPPATH\Views\layout\header.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layout/header', null, true)
+ 5 APPPATH\Views\layout\template.php(43): CodeIgniter\View\View->include('layout/header')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+10 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:55:20 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:55:20 --> ErrorException: Undefined variable $produk
+in APPPATH\Views\konten\produk.php on line 52.
+ 1 APPPATH\Views\konten\produk.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(22): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:56:12 --> Cart Class Initialized
+INFO - 2024-03-21 15:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:56:48 --> Cart Class Initialized
+CRITICAL - 2024-03-21 15:56:48 --> ErrorException: Undefined variable $keyword
+in APPPATH\Views\konten\produk.php on line 47.
+ 1 APPPATH\Views\konten\produk.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/produk', [], true)
+ 5 APPPATH\Controllers\Produk.php(21): view('konten/produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-03-21 15:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:57:07 --> Cart Class Initialized
+INFO - 2024-03-21 15:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:57:49 --> Cart Class Initialized
+INFO - 2024-03-21 15:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:58:10 --> Cart Class Initialized
+INFO - 2024-03-21 15:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 15:58:25 --> Cart Class Initialized
+INFO - 2024-03-21 16:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:02:03 --> Cart Class Initialized
+INFO - 2024-03-21 16:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:02:42 --> Cart Class Initialized
+INFO - 2024-03-21 16:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:03:48 --> Cart Class Initialized
+INFO - 2024-03-21 16:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:04:06 --> Cart Class Initialized
+INFO - 2024-03-21 16:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:04:28 --> Cart Class Initialized
+INFO - 2024-03-21 16:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:04:46 --> Cart Class Initialized
+INFO - 2024-03-21 16:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:05:19 --> Cart Class Initialized
+INFO - 2024-03-21 16:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:05:34 --> Cart Class Initialized
+INFO - 2024-03-21 16:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:06:13 --> Cart Class Initialized
+INFO - 2024-03-21 16:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:07:13 --> Cart Class Initialized
+INFO - 2024-03-21 16:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:07:26 --> Cart Class Initialized
+INFO - 2024-03-21 16:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:08:33 --> Cart Class Initialized
+INFO - 2024-03-21 16:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:09:18 --> Cart Class Initialized
+INFO - 2024-03-21 16:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:09:34 --> Cart Class Initialized
+INFO - 2024-03-21 16:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:09:53 --> Cart Class Initialized
+INFO - 2024-03-21 16:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:10:09 --> Cart Class Initialized
+INFO - 2024-03-21 16:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:10:49 --> Cart Class Initialized
+INFO - 2024-03-21 16:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:11:01 --> Cart Class Initialized
+INFO - 2024-03-21 16:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:12:51 --> Cart Class Initialized
+INFO - 2024-03-21 16:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:12:55 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:04 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:05 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:10 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:15 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:21 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:22 --> Cart Class Initialized
+INFO - 2024-03-21 16:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:13:36 --> Cart Class Initialized
+INFO - 2024-03-21 16:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-21 16:16:43 --> Cart Class Initialized

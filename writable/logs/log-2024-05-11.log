@@ -1,0 +1,1971 @@
+INFO - 2024-05-11 05:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 05:39:31 --> Cart Class Initialized
+INFO - 2024-05-11 06:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:20:42 --> Cart Class Initialized
+INFO - 2024-05-11 06:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:33 --> Cart Class Initialized
+INFO - 2024-05-11 06:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:44 --> Cart Class Initialized
+INFO - 2024-05-11 06:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:58 --> Cart Class Initialized
+INFO - 2024-05-11 06:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:25:58 --> Cart Class Initialized
+INFO - 2024-05-11 06:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:26:10 --> Cart Class Initialized
+INFO - 2024-05-11 06:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:26:15 --> Cart Class Initialized
+INFO - 2024-05-11 06:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:26:38 --> Cart Class Initialized
+INFO - 2024-05-11 06:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:26:48 --> Cart Class Initialized
+INFO - 2024-05-11 06:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:27:00 --> Cart Class Initialized
+INFO - 2024-05-11 06:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:27:20 --> Cart Class Initialized
+INFO - 2024-05-11 06:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:27:27 --> Cart Class Initialized
+INFO - 2024-05-11 06:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:28:47 --> Cart Class Initialized
+INFO - 2024-05-11 06:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:28:59 --> Cart Class Initialized
+INFO - 2024-05-11 06:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:29:18 --> Cart Class Initialized
+INFO - 2024-05-11 06:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:29:45 --> Cart Class Initialized
+INFO - 2024-05-11 06:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:30:27 --> Cart Class Initialized
+INFO - 2024-05-11 06:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:30:56 --> Cart Class Initialized
+INFO - 2024-05-11 06:31:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:31:08 --> Cart Class Initialized
+INFO - 2024-05-11 06:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:31:21 --> Cart Class Initialized
+INFO - 2024-05-11 06:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:31:22 --> Cart Class Initialized
+INFO - 2024-05-11 06:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:31:33 --> Cart Class Initialized
+INFO - 2024-05-11 06:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:31:37 --> Cart Class Initialized
+INFO - 2024-05-11 06:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:32:07 --> Cart Class Initialized
+INFO - 2024-05-11 06:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:32:17 --> Cart Class Initialized
+INFO - 2024-05-11 06:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:32:21 --> Cart Class Initialized
+INFO - 2024-05-11 06:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:32:22 --> Cart Class Initialized
+INFO - 2024-05-11 06:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:32:35 --> Cart Class Initialized
+INFO - 2024-05-11 06:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:33:46 --> Cart Class Initialized
+INFO - 2024-05-11 06:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:35:06 --> Cart Class Initialized
+INFO - 2024-05-11 06:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:35:14 --> Cart Class Initialized
+INFO - 2024-05-11 06:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:35:29 --> Cart Class Initialized
+INFO - 2024-05-11 06:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:35:30 --> Cart Class Initialized
+INFO - 2024-05-11 06:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:35:45 --> Cart Class Initialized
+INFO - 2024-05-11 06:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:36:02 --> Cart Class Initialized
+INFO - 2024-05-11 06:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:36:16 --> Cart Class Initialized
+INFO - 2024-05-11 06:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:36:19 --> Cart Class Initialized
+INFO - 2024-05-11 06:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:36:20 --> Cart Class Initialized
+INFO - 2024-05-11 06:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:36:27 --> Cart Class Initialized
+INFO - 2024-05-11 06:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:38:57 --> Cart Class Initialized
+INFO - 2024-05-11 06:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:39:02 --> Cart Class Initialized
+INFO - 2024-05-11 06:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:39:14 --> Cart Class Initialized
+INFO - 2024-05-11 06:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:39:36 --> Cart Class Initialized
+INFO - 2024-05-11 06:39:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:39:44 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:03 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:16 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:27 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:37 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:49 --> Cart Class Initialized
+INFO - 2024-05-11 06:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:40:50 --> Cart Class Initialized
+INFO - 2024-05-11 06:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:41:02 --> Cart Class Initialized
+INFO - 2024-05-11 06:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:43:19 --> Cart Class Initialized
+INFO - 2024-05-11 06:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:43:40 --> Cart Class Initialized
+INFO - 2024-05-11 06:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:43:44 --> Cart Class Initialized
+INFO - 2024-05-11 06:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:43:52 --> Cart Class Initialized
+CRITICAL - 2024-05-11 06:43:53 --> ErrorException: Undefined variable $cart
+in APPPATH\Views\layout\header.php on line 49.
+ 1 APPPATH\Views\layout\header.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cart', 'C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php', 49)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layout/header', null, true)
+ 5 APPPATH\Views\layout\template.php(50): CodeIgniter\View\View->include('layout/header')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/konfirmasi', [], true)
+10 APPPATH\Controllers\Produk.php(203): view('konten/konfirmasi')
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->simpan()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 06:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:45:03 --> Cart Class Initialized
+INFO - 2024-05-11 06:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:46:52 --> Cart Class Initialized
+INFO - 2024-05-11 06:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:47:04 --> Cart Class Initialized
+INFO - 2024-05-11 06:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:47:21 --> Cart Class Initialized
+CRITICAL - 2024-05-11 06:47:21 --> ParseError: syntax error, unexpected token "!"
+in APPPATH\Views\konten\form_bayar.php on line 17.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/form_bayar', [], true)
+ 3 APPPATH\Controllers\Produk.php(213): view('konten/form_bayar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->form_bayar()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 06:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:47:38 --> Cart Class Initialized
+INFO - 2024-05-11 06:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:47:46 --> Cart Class Initialized
+INFO - 2024-05-11 06:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:47:54 --> Cart Class Initialized
+INFO - 2024-05-11 06:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:48:07 --> Cart Class Initialized
+INFO - 2024-05-11 06:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:48:08 --> Cart Class Initialized
+INFO - 2024-05-11 06:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:48:19 --> Cart Class Initialized
+INFO - 2024-05-11 06:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:48:35 --> Cart Class Initialized
+INFO - 2024-05-11 06:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:48:51 --> Cart Class Initialized
+INFO - 2024-05-11 06:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:49:05 --> Cart Class Initialized
+INFO - 2024-05-11 06:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:49:08 --> Cart Class Initialized
+INFO - 2024-05-11 06:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:49:09 --> Cart Class Initialized
+INFO - 2024-05-11 06:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:49:16 --> Cart Class Initialized
+INFO - 2024-05-11 06:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:51:01 --> Cart Class Initialized
+INFO - 2024-05-11 06:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:51:26 --> Cart Class Initialized
+INFO - 2024-05-11 06:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:52:36 --> Cart Class Initialized
+CRITICAL - 2024-05-11 06:52:36 --> ErrorException: Undefined variable $items
+in APPPATH\Controllers\Produk.php on line 134.
+ 1 APPPATH\Controllers\Produk.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\xampp\\htdocs\\madani\\app\\Controllers\\Produk.php', 134)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 06:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:52:46 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:02 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:03 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:17 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:21 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:26 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:32 --> Cart Class Initialized
+INFO - 2024-05-11 06:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:53:50 --> Cart Class Initialized
+INFO - 2024-05-11 06:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:54:40 --> Cart Class Initialized
+INFO - 2024-05-11 06:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:56:46 --> Cart Class Initialized
+INFO - 2024-05-11 06:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:56:56 --> Cart Class Initialized
+INFO - 2024-05-11 06:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:56:57 --> Cart Class Initialized
+INFO - 2024-05-11 06:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:11 --> Cart Class Initialized
+INFO - 2024-05-11 06:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:16 --> Cart Class Initialized
+INFO - 2024-05-11 06:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:20 --> Cart Class Initialized
+INFO - 2024-05-11 06:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:31 --> Cart Class Initialized
+INFO - 2024-05-11 06:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 06:57:47 --> Cart Class Initialized
+CRITICAL - 2024-05-11 06:57:47 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\riwayat_pembelian.php on line 48.
+ 1 APPPATH\Views\konten\riwayat_pembelian.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pembelian.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pembelian.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat_pembelian', [], true)
+ 5 APPPATH\Controllers\Produk.php(220): view('konten/riwayat_pembelian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->histori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 07:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:01:14 --> Cart Class Initialized
+INFO - 2024-05-11 07:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:02:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:02:22 --> Cart Class Initialized
+INFO - 2024-05-11 07:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:02:34 --> Cart Class Initialized
+INFO - 2024-05-11 07:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:02:53 --> Cart Class Initialized
+INFO - 2024-05-11 07:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:02:54 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:08 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:13 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:17 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:22 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:26 --> Cart Class Initialized
+INFO - 2024-05-11 07:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:03:46 --> Cart Class Initialized
+CRITICAL - 2024-05-11 07:03:46 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\riwayat_pembelian.php on line 48.
+ 1 APPPATH\Views\konten\riwayat_pembelian.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pembelian.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\riwayat_pembelian.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/riwayat_pembelian', [], true)
+ 5 APPPATH\Controllers\Produk.php(216): view('konten/riwayat_pembelian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->histori()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 07:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:06:34 --> Cart Class Initialized
+INFO - 2024-05-11 07:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:07:25 --> Cart Class Initialized
+INFO - 2024-05-11 07:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:07:50 --> Cart Class Initialized
+INFO - 2024-05-11 07:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:08:13 --> Cart Class Initialized
+INFO - 2024-05-11 07:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:10:01 --> Cart Class Initialized
+INFO - 2024-05-11 07:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:10:44 --> Cart Class Initialized
+INFO - 2024-05-11 07:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:11:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:11:35 --> Cart Class Initialized
+INFO - 2024-05-11 07:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:12:16 --> Cart Class Initialized
+INFO - 2024-05-11 07:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:12:41 --> Cart Class Initialized
+INFO - 2024-05-11 07:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:13:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:13:37 --> Cart Class Initialized
+INFO - 2024-05-11 07:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:13:59 --> Cart Class Initialized
+INFO - 2024-05-11 07:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:14:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:14:13 --> Cart Class Initialized
+INFO - 2024-05-11 07:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:15:09 --> Cart Class Initialized
+INFO - 2024-05-11 07:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:15:14 --> Cart Class Initialized
+INFO - 2024-05-11 07:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:15:53 --> Cart Class Initialized
+INFO - 2024-05-11 07:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:16:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:16:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:16:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:17:27 --> Cart Class Initialized
+INFO - 2024-05-11 07:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:17:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:18:23 --> Cart Class Initialized
+INFO - 2024-05-11 07:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:18:58 --> Cart Class Initialized
+INFO - 2024-05-11 07:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:19:35 --> Cart Class Initialized
+CRITICAL - 2024-05-11 07:19:35 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\detail_pembelian.php on line 47.
+ 1 APPPATH\Views\konten\detail_pembelian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pembelian.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\detail_pembelian.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/detail_pembelian', [], true)
+ 5 APPPATH\Controllers\Produk.php(228): view('konten/detail_pembelian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->detail_transaksi('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 07:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:20:58 --> Cart Class Initialized
+INFO - 2024-05-11 07:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:22:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:22:36 --> Cart Class Initialized
+INFO - 2024-05-11 07:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:23:16 --> Cart Class Initialized
+INFO - 2024-05-11 07:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:23:31 --> Cart Class Initialized
+INFO - 2024-05-11 07:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:23:48 --> Cart Class Initialized
+INFO - 2024-05-11 07:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:23:58 --> Cart Class Initialized
+INFO - 2024-05-11 07:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:24:24 --> Cart Class Initialized
+INFO - 2024-05-11 07:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:24:39 --> Cart Class Initialized
+INFO - 2024-05-11 07:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:25:02 --> Cart Class Initialized
+INFO - 2024-05-11 07:25:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:25:21 --> Cart Class Initialized
+INFO - 2024-05-11 07:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:25:39 --> Cart Class Initialized
+INFO - 2024-05-11 07:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:25:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:26:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:26:14 --> Cart Class Initialized
+INFO - 2024-05-11 07:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:27:24 --> Cart Class Initialized
+INFO - 2024-05-11 07:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:27:51 --> Cart Class Initialized
+INFO - 2024-05-11 07:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:29:36 --> Cart Class Initialized
+INFO - 2024-05-11 07:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:29:53 --> Cart Class Initialized
+INFO - 2024-05-11 07:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:30:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:30:29 --> Cart Class Initialized
+INFO - 2024-05-11 07:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:30:46 --> Cart Class Initialized
+INFO - 2024-05-11 07:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:30:54 --> Cart Class Initialized
+INFO - 2024-05-11 07:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:31:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:32:03 --> Cart Class Initialized
+INFO - 2024-05-11 07:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:32:53 --> Cart Class Initialized
+INFO - 2024-05-11 07:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:33:26 --> Cart Class Initialized
+INFO - 2024-05-11 07:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:33:42 --> Cart Class Initialized
+INFO - 2024-05-11 07:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:34:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:35:44 --> Cart Class Initialized
+INFO - 2024-05-11 07:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:36:16 --> Cart Class Initialized
+INFO - 2024-05-11 07:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:36:49 --> Cart Class Initialized
+INFO - 2024-05-11 07:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:37:03 --> Cart Class Initialized
+INFO - 2024-05-11 07:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:37:27 --> Cart Class Initialized
+INFO - 2024-05-11 07:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:37:38 --> Cart Class Initialized
+INFO - 2024-05-11 07:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:37:52 --> Cart Class Initialized
+INFO - 2024-05-11 07:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:38:08 --> Cart Class Initialized
+INFO - 2024-05-11 07:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:38:22 --> Cart Class Initialized
+INFO - 2024-05-11 07:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:38:48 --> Cart Class Initialized
+INFO - 2024-05-11 07:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:39:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:39:33 --> Cart Class Initialized
+INFO - 2024-05-11 07:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:39:50 --> Cart Class Initialized
+INFO - 2024-05-11 07:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:40:15 --> Cart Class Initialized
+INFO - 2024-05-11 07:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:40:25 --> Cart Class Initialized
+INFO - 2024-05-11 07:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:40:39 --> Cart Class Initialized
+INFO - 2024-05-11 07:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:40:54 --> Cart Class Initialized
+INFO - 2024-05-11 07:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:42:54 --> Cart Class Initialized
+INFO - 2024-05-11 07:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:43:26 --> Cart Class Initialized
+INFO - 2024-05-11 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:43:34 --> Cart Class Initialized
+INFO - 2024-05-11 07:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:43:47 --> Cart Class Initialized
+INFO - 2024-05-11 07:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:44:10 --> Cart Class Initialized
+INFO - 2024-05-11 07:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:44:29 --> Cart Class Initialized
+INFO - 2024-05-11 07:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:45:07 --> Cart Class Initialized
+INFO - 2024-05-11 07:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:45:19 --> Cart Class Initialized
+INFO - 2024-05-11 07:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:45:28 --> Cart Class Initialized
+INFO - 2024-05-11 07:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:45:34 --> Cart Class Initialized
+INFO - 2024-05-11 07:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:46:20 --> Cart Class Initialized
+INFO - 2024-05-11 07:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:46:31 --> Cart Class Initialized
+INFO - 2024-05-11 07:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:46:59 --> Cart Class Initialized
+INFO - 2024-05-11 07:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:47:09 --> Cart Class Initialized
+INFO - 2024-05-11 07:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:47:41 --> Cart Class Initialized
+INFO - 2024-05-11 07:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:47:51 --> Cart Class Initialized
+INFO - 2024-05-11 07:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:49:24 --> Cart Class Initialized
+INFO - 2024-05-11 07:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:49:53 --> Cart Class Initialized
+INFO - 2024-05-11 07:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:50:29 --> Cart Class Initialized
+INFO - 2024-05-11 07:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:50:39 --> Cart Class Initialized
+INFO - 2024-05-11 07:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:50:50 --> Cart Class Initialized
+INFO - 2024-05-11 07:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:51:26 --> Cart Class Initialized
+INFO - 2024-05-11 07:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:51:40 --> Cart Class Initialized
+INFO - 2024-05-11 07:52:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:52:03 --> Cart Class Initialized
+INFO - 2024-05-11 07:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:52:17 --> Cart Class Initialized
+INFO - 2024-05-11 07:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:52:45 --> Cart Class Initialized
+INFO - 2024-05-11 07:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:52:59 --> Cart Class Initialized
+INFO - 2024-05-11 07:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:53:11 --> Cart Class Initialized
+INFO - 2024-05-11 07:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:53:21 --> Cart Class Initialized
+INFO - 2024-05-11 07:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:53:30 --> Cart Class Initialized
+INFO - 2024-05-11 07:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:53:39 --> Cart Class Initialized
+INFO - 2024-05-11 07:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:54:03 --> Cart Class Initialized
+INFO - 2024-05-11 07:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:54:17 --> Cart Class Initialized
+INFO - 2024-05-11 07:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:54:30 --> Cart Class Initialized
+INFO - 2024-05-11 07:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:54:37 --> Cart Class Initialized
+INFO - 2024-05-11 07:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:54:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:55:05 --> Cart Class Initialized
+INFO - 2024-05-11 07:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:55:46 --> Cart Class Initialized
+INFO - 2024-05-11 07:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:56:08 --> Cart Class Initialized
+INFO - 2024-05-11 07:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:56:23 --> Cart Class Initialized
+INFO - 2024-05-11 07:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:56:56 --> Cart Class Initialized
+INFO - 2024-05-11 07:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:57:40 --> Cart Class Initialized
+INFO - 2024-05-11 07:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:57:57 --> Cart Class Initialized
+INFO - 2024-05-11 07:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:58:13 --> Cart Class Initialized
+INFO - 2024-05-11 07:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 07:58:50 --> Cart Class Initialized
+INFO - 2024-05-11 08:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:02:38 --> Cart Class Initialized
+INFO - 2024-05-11 08:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 08:02:43 --> ArgumentCountError: Too few arguments to function App\Controllers\Transaksi::index(), 0 passed in C:\xampp\htdocs\madani\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Transaksi.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Transaksi->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:03:07 --> Cart Class Initialized
+INFO - 2024-05-11 08:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:03:09 --> Cart Class Initialized
+INFO - 2024-05-11 08:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:03:23 --> Cart Class Initialized
+INFO - 2024-05-11 08:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:04:51 --> Cart Class Initialized
+INFO - 2024-05-11 08:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 08:05:35 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\admin\cetak_nota.php on line 67.
+ 1 APPPATH\Views\konten\admin\cetak_nota.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\cetak_nota.php', 67)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\cetak_nota.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/cetak_nota', [], true)
+ 5 APPPATH\Controllers\Transaksi.php(39): view('konten/admin/cetak_nota', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Transaksi->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:21:57 --> Cart Class Initialized
+INFO - 2024-05-11 08:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:22:05 --> Cart Class Initialized
+INFO - 2024-05-11 08:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:22:56 --> Cart Class Initialized
+INFO - 2024-05-11 08:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:24:18 --> Cart Class Initialized
+INFO - 2024-05-11 08:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:24:26 --> Cart Class Initialized
+INFO - 2024-05-11 08:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:25:54 --> Cart Class Initialized
+INFO - 2024-05-11 08:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:26:02 --> Cart Class Initialized
+INFO - 2024-05-11 08:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:26:44 --> Cart Class Initialized
+INFO - 2024-05-11 08:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:26:52 --> Cart Class Initialized
+INFO - 2024-05-11 08:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:18 --> Cart Class Initialized
+INFO - 2024-05-11 08:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:22 --> Cart Class Initialized
+INFO - 2024-05-11 08:27:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:29 --> Cart Class Initialized
+INFO - 2024-05-11 08:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:32 --> Cart Class Initialized
+INFO - 2024-05-11 08:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:27:54 --> Cart Class Initialized
+INFO - 2024-05-11 08:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:07 --> Cart Class Initialized
+INFO - 2024-05-11 08:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:17 --> Cart Class Initialized
+INFO - 2024-05-11 08:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:26 --> Cart Class Initialized
+INFO - 2024-05-11 08:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:41 --> Cart Class Initialized
+INFO - 2024-05-11 08:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:42 --> Cart Class Initialized
+INFO - 2024-05-11 08:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:30:54 --> Cart Class Initialized
+INFO - 2024-05-11 08:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:32:33 --> Cart Class Initialized
+INFO - 2024-05-11 08:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:32:51 --> Cart Class Initialized
+INFO - 2024-05-11 08:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:34:38 --> Cart Class Initialized
+INFO - 2024-05-11 08:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:34:43 --> Cart Class Initialized
+INFO - 2024-05-11 08:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:36:33 --> Cart Class Initialized
+INFO - 2024-05-11 08:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:36:38 --> Cart Class Initialized
+INFO - 2024-05-11 08:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:36:53 --> Cart Class Initialized
+INFO - 2024-05-11 08:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:36:57 --> Cart Class Initialized
+INFO - 2024-05-11 08:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:37:26 --> Cart Class Initialized
+INFO - 2024-05-11 08:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:37:31 --> Cart Class Initialized
+INFO - 2024-05-11 08:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:37:47 --> Cart Class Initialized
+INFO - 2024-05-11 08:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:38:14 --> Cart Class Initialized
+INFO - 2024-05-11 08:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:39:13 --> Cart Class Initialized
+INFO - 2024-05-11 08:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:42:11 --> Cart Class Initialized
+INFO - 2024-05-11 08:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:43:55 --> Cart Class Initialized
+INFO - 2024-05-11 08:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:44:08 --> Cart Class Initialized
+INFO - 2024-05-11 08:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:44:16 --> Cart Class Initialized
+INFO - 2024-05-11 08:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:44:23 --> Cart Class Initialized
+INFO - 2024-05-11 08:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:45:18 --> Cart Class Initialized
+INFO - 2024-05-11 08:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:45:30 --> Cart Class Initialized
+INFO - 2024-05-11 08:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:45:34 --> Cart Class Initialized
+INFO - 2024-05-11 08:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:45:47 --> Cart Class Initialized
+INFO - 2024-05-11 08:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:46:24 --> Cart Class Initialized
+INFO - 2024-05-11 08:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:46:44 --> Cart Class Initialized
+INFO - 2024-05-11 08:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:47:13 --> Cart Class Initialized
+INFO - 2024-05-11 08:47:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:47:24 --> Cart Class Initialized
+INFO - 2024-05-11 08:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:47:50 --> Cart Class Initialized
+INFO - 2024-05-11 08:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:48:13 --> Cart Class Initialized
+INFO - 2024-05-11 08:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:48:36 --> Cart Class Initialized
+INFO - 2024-05-11 08:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:49:06 --> Cart Class Initialized
+INFO - 2024-05-11 08:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:49:11 --> Cart Class Initialized
+INFO - 2024-05-11 08:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:49:14 --> Cart Class Initialized
+INFO - 2024-05-11 08:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:49:18 --> Cart Class Initialized
+INFO - 2024-05-11 08:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:49:31 --> Cart Class Initialized
+INFO - 2024-05-11 08:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:50:00 --> Cart Class Initialized
+INFO - 2024-05-11 08:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:50:09 --> Cart Class Initialized
+INFO - 2024-05-11 08:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:51:05 --> Cart Class Initialized
+INFO - 2024-05-11 08:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:51:57 --> Cart Class Initialized
+INFO - 2024-05-11 08:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:52:02 --> Cart Class Initialized
+INFO - 2024-05-11 08:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:52:38 --> Cart Class Initialized
+INFO - 2024-05-11 08:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:05 --> Cart Class Initialized
+INFO - 2024-05-11 08:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:14 --> Cart Class Initialized
+INFO - 2024-05-11 08:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:53:41 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:53:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:41 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:53:42 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:53:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:42 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:53:53 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:53:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:53 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:53:54 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:53:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:53:54 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 08:56:55 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\admin\penjualan.php on line 57.
+ 1 APPPATH\Views\konten\admin\penjualan.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/penjualan', [], true)
+ 5 APPPATH\Controllers\Admin.php(207): view('konten/admin/penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->penjualan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 08:57:41 --> ErrorException: Undefined array key "tgl_trk"
+in APPPATH\Views\konten\admin\detail_penjualan.php on line 73.
+ 1 APPPATH\Views\konten\admin\detail_penjualan.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tgl_trk"', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_penjualan.php', 73)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\detail_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/detail_penjualan', [], true)
+ 5 APPPATH\Controllers\Admin.php(218): view('konten/admin/detail_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->detail_penjualan('8')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:07 --> Cart Class Initialized
+INFO - 2024-05-11 08:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:59:24 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:59:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:59:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:59:24 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 08:59:25 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 08:59:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:59:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 08:59:25 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 08:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 08:59:34 --> Cart Class Initialized
+INFO - 2024-05-11 09:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:05:23 --> Cart Class Initialized
+INFO - 2024-05-11 09:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 09:12:21 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 09:12:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 09:12:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 09:12:21 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, sum(total)  total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(37): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(300): App\Models\m_home->transaksi('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showChartTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 09:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-11 09:12:22 --> mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list' in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tg...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tg...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tg...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tg...', Array, false)
+#4 C:\xampp\htdocs\madani\app\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\madani\app\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+#6 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+#7 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-11 09:12:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 2 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 09:12:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 4 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 09:12:22 --> [Caused by] mysqli_sql_exception: Unknown column 'tgl_trk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = \'2024\'
+ORDER BY MONTH(tgl_trk)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT MONTH(tgl_trk) bulan, count(qty) total
+FROM `keranjang`
+JOIN `transaksi` ON `transaksi`.`id_transaksi`=`keranjang`.`id_trx`
+WHERE YEAR(tgl_trk) = :YEAR(tgl_trk):
+ORDER BY MONTH(tgl_trk)', [...], false)
+ 5 APPPATH\Models\m_home.php(46): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(311): App\Models\m_home->produk('2024')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->showchartproduk()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 09:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:14:20 --> Cart Class Initialized
+INFO - 2024-05-11 09:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:15:57 --> Cart Class Initialized
+INFO - 2024-05-11 09:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:16:09 --> Cart Class Initialized
+INFO - 2024-05-11 09:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:16:24 --> Cart Class Initialized
+INFO - 2024-05-11 09:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:17:13 --> Cart Class Initialized
+INFO - 2024-05-11 09:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:17:30 --> Cart Class Initialized
+INFO - 2024-05-11 09:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:17:52 --> Cart Class Initialized
+INFO - 2024-05-11 09:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:29:00 --> Cart Class Initialized
+INFO - 2024-05-11 09:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:35:31 --> Cart Class Initialized
+INFO - 2024-05-11 09:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:36:30 --> Cart Class Initialized
+INFO - 2024-05-11 09:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:36:41 --> Cart Class Initialized
+INFO - 2024-05-11 09:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:40:08 --> Cart Class Initialized
+INFO - 2024-05-11 09:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:53:20 --> Cart Class Initialized
+INFO - 2024-05-11 09:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 09:53:27 --> Cart Class Initialized
+INFO - 2024-05-11 10:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:15:17 --> Cart Class Initialized
+INFO - 2024-05-11 10:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:15:35 --> Cart Class Initialized
+INFO - 2024-05-11 10:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 10:33:20 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\Admin.php on line 391.
+ 1 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('admin/kasir', 'get')
+ 2 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('admin/kasir')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/kasir')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 10:33:39 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\Admin.php on line 391.
+ 1 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('admin/kasir', 'get')
+ 2 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('admin/kasir')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/kasir')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 10:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:33:56 --> Cart Class Initialized
+INFO - 2024-05-11 10:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:34:36 --> Cart Class Initialized
+INFO - 2024-05-11 10:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:34:49 --> Cart Class Initialized
+INFO - 2024-05-11 10:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:34:53 --> Cart Class Initialized
+INFO - 2024-05-11 10:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 10:34:54 --> ErrorException: Undefined array key 0
+in APPPATH\Views\konten\admin\penjualan.php on line 136.
+ 1 APPPATH\Views\konten\admin\penjualan.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php', 136)
+ 2 APPPATH\Views\konten\admin\penjualan.php(57): tanggal('0000-00-00 00:00:00')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/penjualan', [], true)
+ 6 APPPATH\Controllers\Admin.php(207): view('konten/admin/penjualan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->penjualan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 10:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:34:58 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:04 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:05 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:10 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:11 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:22 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:22 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:23 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:35:39 --> Cart Class Initialized
+INFO - 2024-05-11 10:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-11 10:35:39 --> ErrorException: Undefined array key 0
+in APPPATH\Views\konten\admin\penjualan.php on line 136.
+ 1 APPPATH\Views\konten\admin\penjualan.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php', 136)
+ 2 APPPATH\Views\konten\admin\penjualan.php(57): tanggal('0000-00-00 00:00:00')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\madani\\app\\Views\\konten\\admin\\penjualan.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('konten/admin/penjualan', [], true)
+ 6 APPPATH\Controllers\Admin.php(207): view('konten/admin/penjualan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->penjualan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 10:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:46:33 --> Cart Class Initialized
+INFO - 2024-05-11 10:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:49:28 --> Cart Class Initialized
+INFO - 2024-05-11 10:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:49:45 --> Cart Class Initialized
+INFO - 2024-05-11 10:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:53:32 --> Cart Class Initialized
+INFO - 2024-05-11 10:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:53:38 --> Cart Class Initialized
+INFO - 2024-05-11 10:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:53:39 --> Cart Class Initialized
+INFO - 2024-05-11 10:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:59:25 --> Cart Class Initialized
+INFO - 2024-05-11 10:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 10:59:36 --> Cart Class Initialized
+INFO - 2024-05-11 11:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:00:18 --> Cart Class Initialized
+INFO - 2024-05-11 11:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:06:04 --> Cart Class Initialized
+INFO - 2024-05-11 11:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:07:36 --> Cart Class Initialized
+INFO - 2024-05-11 11:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:07:56 --> Cart Class Initialized
+INFO - 2024-05-11 11:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:10:18 --> Cart Class Initialized
+INFO - 2024-05-11 11:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:10:33 --> Cart Class Initialized
+ERROR - 2024-05-11 11:10:33 --> mysqli_sql_exception: Column 'no_telp' cannot be null in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tr...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\madani\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\madani\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\madani\app\Controllers\Transaksi.php(218): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Transaksi->tunai()
+#10 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+#11 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-05-11 11:10:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (:no_nota:, :customer:, :no_telp:, :alamat:, :status:, :order_id:, :payment_method:, :payment_type:, :transaction_time:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Transaksi.php(218): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Transaksi->tunai()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 11:10:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (\'TR11052024011\', \'Tunai\', NULL, \'0\', \'diterima\', 0, \'Tunai\', 0, \'2024-05-11 11:10:33\', \'settlement\', 0, 0)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (\'TR11052024011\', \'Tunai\', NULL, \'0\', \'diterima\', 0, \'Tunai\', 0, \'2024-05-11 11:10:33\', \'settlement\', 0, 0)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (:no_nota:, :customer:, :no_telp:, :alamat:, :status:, :order_id:, :payment_method:, :payment_type:, :transaction_time:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Transaksi.php(218): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Transaksi->tunai()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 11:10:33 --> [Caused by] mysqli_sql_exception: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (\'TR11052024011\', \'Tunai\', NULL, \'0\', \'diterima\', 0, \'Tunai\', 0, \'2024-05-11 11:10:33\', \'settlement\', 0, 0)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (\'TR11052024011\', \'Tunai\', NULL, \'0\', \'diterima\', 0, \'Tunai\', 0, \'2024-05-11 11:10:33\', \'settlement\', 0, 0)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (\'TR11052024011\', \'Tunai\', NULL, \'0\', \'diterima\', 0, \'Tunai\', 0, \'2024-05-11 11:10:33\', \'settlement\', 0, 0)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`no_nota`, `customer`, `no_telp`, `alamat`, `status`, `order_id`, `payment_method`, `payment_type`, `transaction_time`, `transaction_status`, `va_number`, `bank`) VALUES (:no_nota:, :customer:, :no_telp:, :alamat:, :status:, :order_id:, :payment_method:, :payment_type:, :transaction_time:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Transaksi.php(218): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Transaksi->tunai()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 11:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:10:48 --> Cart Class Initialized
+INFO - 2024-05-11 11:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:10:49 --> Cart Class Initialized
+INFO - 2024-05-11 11:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:13:10 --> Cart Class Initialized
+INFO - 2024-05-11 11:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:13:22 --> Cart Class Initialized
+INFO - 2024-05-11 11:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:14:01 --> Cart Class Initialized
+INFO - 2024-05-11 11:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:14:22 --> Cart Class Initialized
+INFO - 2024-05-11 11:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:15:58 --> Cart Class Initialized
+INFO - 2024-05-11 11:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:16:02 --> Cart Class Initialized
+INFO - 2024-05-11 11:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:16:03 --> Cart Class Initialized
+INFO - 2024-05-11 11:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:16:06 --> Cart Class Initialized
+INFO - 2024-05-11 11:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:16:07 --> Cart Class Initialized
+INFO - 2024-05-11 11:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:52:23 --> Cart Class Initialized
+INFO - 2024-05-11 11:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:52:55 --> Cart Class Initialized
+INFO - 2024-05-11 11:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:53:02 --> Cart Class Initialized
+INFO - 2024-05-11 11:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:58:39 --> Cart Class Initialized
+INFO - 2024-05-11 11:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:58:54 --> Cart Class Initialized
+INFO - 2024-05-11 11:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:58:54 --> Cart Class Initialized
+INFO - 2024-05-11 11:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 11:59:07 --> Cart Class Initialized
+INFO - 2024-05-11 12:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:10:29 --> Cart Class Initialized
+CRITICAL - 2024-05-11 12:10:29 --> BadMethodCallException: Call to undefined method App\Models\m_orders::page
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pesan.php(26): CodeIgniter\Model->__call('page', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:13:12 --> Cart Class Initialized
+CRITICAL - 2024-05-11 12:13:12 --> BadMethodCallException: Call to undefined method App\Models\m_orders::page
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pesan.php(26): CodeIgniter\Model->__call('page', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:13:17 --> Cart Class Initialized
+INFO - 2024-05-11 12:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:13:22 --> Cart Class Initialized
+INFO - 2024-05-11 12:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:13:33 --> Cart Class Initialized
+CRITICAL - 2024-05-11 12:13:33 --> BadMethodCallException: Call to undefined method App\Models\m_orders::page
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pesan.php(26): CodeIgniter\Model->__call('page', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:24:20 --> Cart Class Initialized
+CRITICAL - 2024-05-11 12:24:20 --> BadMethodCallException: Call to undefined method App\Models\m_orders::page
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pesan.php(26): CodeIgniter\Model->__call('page', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:24:47 --> Cart Class Initialized
+INFO - 2024-05-11 12:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:25:01 --> Cart Class Initialized
+INFO - 2024-05-11 12:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:25:10 --> Cart Class Initialized
+ERROR - 2024-05-11 12:25:10 --> mysqli_sql_exception: Column 'no_telp' cannot be null in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\madani\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\madani\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\madani\app\Controllers\Pesan.php(155): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+#10 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+#11 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-05-11 12:25:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Pesan.php(155): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:25:10 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', \'wahyu\', NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885784160519314826\', \'bri\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', \'wahyu\', NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885784160519314826\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Pesan.php(155): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:25:10 --> [Caused by] mysqli_sql_exception: Column 'no_telp' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', \'wahyu\', NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885784160519314826\', \'bri\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', \'wahyu\', NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885784160519314826\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', \'wahyu\', NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885784160519314826\', \'bri\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Pesan.php(155): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:27:25 --> Cart Class Initialized
+INFO - 2024-05-11 12:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:28:32 --> Cart Class Initialized
+INFO - 2024-05-11 12:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:28:33 --> Cart Class Initialized
+INFO - 2024-05-11 12:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:28:33 --> Cart Class Initialized
+INFO - 2024-05-11 12:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:28:48 --> Cart Class Initialized
+INFO - 2024-05-11 12:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:28:56 --> Cart Class Initialized
+ERROR - 2024-05-11 12:28:56 --> mysqli_sql_exception: Column 'nama' cannot be null in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\madani\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\madani\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\madani\app\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+#10 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+#11 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-05-11 12:28:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:28:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783925370338822\', \'bri\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783925370338822\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:28:56 --> [Caused by] mysqli_sql_exception: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783925370338822\', \'bri\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783925370338822\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783925370338822\', \'bri\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:29:43 --> Cart Class Initialized
+INFO - 2024-05-11 12:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:29:58 --> Cart Class Initialized
+INFO - 2024-05-11 12:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:30:07 --> Cart Class Initialized
+ERROR - 2024-05-11 12:30:07 --> mysqli_sql_exception: Column 'nama' cannot be null in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\madani\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\madani\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\madani\app\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+#10 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+#11 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-05-11 12:30:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:30:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885788142800390752\', \'bri\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885788142800390752\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:30:07 --> [Caused by] mysqli_sql_exception: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885788142800390752\', \'bri\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885788142800390752\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885788142800390752\', \'bri\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:30:57 --> Cart Class Initialized
+INFO - 2024-05-11 12:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:31:12 --> Cart Class Initialized
+INFO - 2024-05-11 12:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:31:20 --> Cart Class Initialized
+ERROR - 2024-05-11 12:31:20 --> mysqli_sql_exception: Column 'nama' cannot be null in C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\madani\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\madani\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\madani\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\madani\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\madani\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\madani\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\madani\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\madani\app\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\madani\system\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+#10 C:\xampp\htdocs\madani\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+#11 C:\xampp\htdocs\madani\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\madani\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\madani\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-05-11 12:31:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:31:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783506322807394\', \'bri\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783506322807394\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+CRITICAL - 2024-05-11 12:31:20 --> [Caused by] mysqli_sql_exception: Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783506322807394\', \'bri\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783506322807394\', \'bri\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (\'FP11052024001\', NULL, NULL, \' asdfghjkl\', \'\', \'belum diproses\', \'pending\', \'885783506322807394\', \'bri\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pesanan` (`no_faktur`, `nama`, `no_telp`, `alamat`, `tgl_kirim`, `status`, `transaction_status`, `va_number`, `bank`) VALUES (:no_faktur:, :nama:, :no_telp:, :alamat:, :tgl_kirim:, :status:, :transaction_status:, :va_number:, :bank:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Pesan.php(160): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pesan->simpan()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pesan))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\madani\\public\\index.php')
+INFO - 2024-05-11 12:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:32:50 --> Cart Class Initialized
+INFO - 2024-05-11 12:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:33:06 --> Cart Class Initialized
+INFO - 2024-05-11 12:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:33:13 --> Cart Class Initialized
+INFO - 2024-05-11 12:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:33:19 --> Cart Class Initialized
+INFO - 2024-05-11 12:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:39:27 --> Cart Class Initialized
+INFO - 2024-05-11 12:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:39:33 --> Cart Class Initialized
+INFO - 2024-05-11 12:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:40:01 --> Cart Class Initialized
+INFO - 2024-05-11 12:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:40:01 --> Cart Class Initialized
+INFO - 2024-05-11 12:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:40:16 --> Cart Class Initialized
+INFO - 2024-05-11 12:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:41:23 --> Cart Class Initialized
+INFO - 2024-05-11 12:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:41:44 --> Cart Class Initialized
+INFO - 2024-05-11 12:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:42:37 --> Cart Class Initialized
+INFO - 2024-05-11 12:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:42:49 --> Cart Class Initialized
+INFO - 2024-05-11 12:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:42:56 --> Cart Class Initialized
+INFO - 2024-05-11 12:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-11 12:42:59 --> Cart Class Initialized
